@@ -2,7 +2,7 @@
 
 We don’t want to solve the world’s problems using technology, because that’s
 just silly. We want simple, extensible, and open source software to help artists
-make a dime, and all of us to access it; no more and no less.
+make a dime, and all of us to access their work; no more and no less.
 
 ## What we want
 
@@ -26,8 +26,9 @@ your needs. If we make some money, that’s great! If we don’t, no hard feelin
 
 ## Where we are
 
-We (mostly @hellerve and @hugurp) wrote part of the software that we need. We
-also registered an AWS account. @hellerve even wrote a Dockerfile, to his own
+We (mostly [@hellerve](https://github.com/hellerve) and
+[@hugurp](https://github.com/hugurp)) wrote part of the software that we need.
+We also registered an AWS account. @hellerve even wrote a Dockerfile, to his own
 dismay.
 
 But we aren’t live yet, nor should we be. The project is not in a stage where
