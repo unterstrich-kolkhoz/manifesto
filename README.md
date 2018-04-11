@@ -2,7 +2,7 @@
 
 We don’t want to solve the world’s problems using technology, because that’s
 just silly. We want simple, extensible, and open source software to help artists
-make a dime, no more and no less.
+make a dime, and all of us to access it; no more and no less.
 
 ## What we want
 
