@@ -49,7 +49,7 @@ We are looking forward to hearing from you!
 
 ## A personal word about diversity
 
-We value diversity of experience, whatever that means. Just know that, whoever
-you are, you are supposed to feel welcome with us. If you don’t, tell the
+We value diversity of experience, whatever that means to you. Just know that,
+whoever you are, you are supposed to feel welcome with us. If you don’t, tell the
 powers that be of the kolkhoz: we will try to remedy any issues you have as soon
 as you have them!
